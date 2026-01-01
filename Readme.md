@@ -1,6 +1,6 @@
 ### Hi there! I'm Muhammad Adeel Mughal 👋
 
-🚀 **Electrical Engineer | AI & Data Science Enthusiast | Full Stack Developer**
+🚀 **AI & Data Science Enthusiast | Full Stack Developer**
 
 I am a passionate **Electrical Engineer** with expertise in **AI, Data Science, Embedded Systems, and Web Development**. I enjoy solving complex problems, building scalable applications, and working on innovative projects that merge **technology, intelligence, and automation**.
 
