@@ -20,5 +20,5 @@
 </p>
 
 <p align="left">
-  ▪ Currently at <strong>Cyberify</strong>, building AI-powered APIs and RAG systems.
+  ▪ Open to work · Full-stack and AI engineering roles
 </p>
