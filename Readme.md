@@ -14,9 +14,9 @@
 </p>
 
 <p align="left">
-  → <a href="https://theadeels.com">Portfolio</a> &nbsp;·&nbsp;
-  → <a href="https://www.linkedin.com/in/the-adeel/">LinkedIn</a> &nbsp;·&nbsp;
-  → <a href="mailto:adeelmughal246@gmail.com">Email</a>
+  <a href="https://theadeels.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/the-adeel/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:adeelmughal246@gmail.com">Email</a>
 </p>
 
 <p align="left">
