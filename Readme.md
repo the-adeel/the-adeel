@@ -5,8 +5,7 @@
 </p>
 
 <p align="left">
-  I build scalable web and AI systems.<br>
-  Production-ready RAG pipelines, LLM optimization, and full-stack products that hold up outside demos.
+I build scalable RAG apps and AI systems, then spend the rest of my time convincing LLMs they actually know what they're talking about.
 </p>
 
 <p align="left">
